@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yamina!
+
 
 🎓 **MIASHS Student** at Université Kasdi Merbah Ouargla (UKMO), Algeria  
 🔢 **Mathematics** · 💻 **Computer Science** · 🌍 **Human & Social Sciences**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Featured Project
+## Featured Project
 
 **PFE — Health Demography & Hospital Bed Demand Forecasting**  
 *Wilaya d'Ouargla (2030)*  
@@ -45,4 +45,4 @@
 
 - 💼 [LinkedIn](www.linkedin.com/in/saciamina12tt750l)
 - 📧 saciyamina6@gmail.com
-- 
+
